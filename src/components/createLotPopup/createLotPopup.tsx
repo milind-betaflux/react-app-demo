@@ -9,7 +9,7 @@ import CustomBtn from "../customBtn/customBtn";
 const CreateLotPopup = (props) => {    
 
     return(
-        <div className="popup-outer-container">
+        <div className="popup-outer-container create-lot-popup-container">
             <div className="popup-inner-container">
                 <div className="display_flex space_between flex_align_center">
                     <div className="pill-text-container">

@@ -9,6 +9,9 @@
     transform: translate(-50%, -50%);   
     position: relative; 
 }
+.create-lot-popup-container{
+    max-height: 377px;
+}
 .selection-popup-container{
     height: 700px;
 }
