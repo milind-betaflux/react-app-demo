@@ -1,0 +1,23 @@
+.custom-btn{    
+    border-radius: 17px;    
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    padding: 8px 16px;
+    width: -webkit-fill-available;
+    cursor: pointer;
+}
+.custom-btn-color{
+    background: linear-gradient(178.7deg, #9E44FF 3.56%, #543EFF 103.97%) padding-box,
+    linear-gradient(to bottom, #EDEFFA, #2E3149) border-box;
+    border: 0.2px solid transparent;
+}
+.custom-btn-transparent{
+    background: transparent;
+    border: 0.5px solid white;
+}

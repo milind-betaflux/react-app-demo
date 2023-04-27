@@ -1,0 +1,32 @@
+.popup-tabs{
+    margin-bottom: 0.5rem;
+}
+.tab-container{
+    cursor: pointer;
+    padding: 2px 13px;
+    border: 1px solid transparent;
+}
+.tab-container-selected{    
+    border-radius: 15px;
+    background: 
+        linear-gradient(to bottom, #3A2766, #2F296A), 
+        linear-gradient(to bottom, #9E44FF, #543EFF); 
+    background-clip: padding-box, border-box;
+    background-origin: padding-box, border-box;
+}
+.tab-label{
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.02em;      
+    margin: 0;  
+}
+.tab-label-selected{
+    color: #FFFFFF;
+}
+.tab-label-unselected{
+    color: #56565A;
+}

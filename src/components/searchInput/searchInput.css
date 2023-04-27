@@ -1,0 +1,20 @@
+.input-box-container{
+    position: relative;
+}
+.search-input{
+    background: linear-gradient(#14172B, #14172B) padding-box,
+    linear-gradient(to bottom, #9E44FF, #543EFF) border-box;    
+    border: 0.2px solid transparent;
+    border-radius: 17px;
+    width: -webkit-fill-available;
+    padding: 11px 16px 11px 37px;
+    color: white;
+}
+.search-icon{
+    position: absolute;
+    top: 0.6rem;
+    left: 0.6rem;
+}
+.search-input:focus{
+    outline: none;
+}

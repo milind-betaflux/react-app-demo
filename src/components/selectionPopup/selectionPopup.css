@@ -1,0 +1,28 @@
+.selection-popup-title-container{
+    margin-bottom: 0.5rem;
+}
+.selection-popup-title{
+    margin-bottom: 0rem;
+    margin-top: 0;
+}
+.selection-popup-subtitle{
+    font-family: 'Tomorrow', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    letter-spacing: -0.025em;
+    color: rgba(255, 255, 255, 0.9);
+    margin-top: 0.4rem;
+    margin-bottom: 0.4rem;
+}
+.btns-container{
+    position: absolute;
+    bottom: 24px;
+    width: -webkit-fill-available;
+    margin-right: 24px;
+}
+.flex-btn-container-child{
+    width: -webkit-fill-available;    
+}

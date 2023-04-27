@@ -1,0 +1,29 @@
+.selected-assets-container{
+    background: #14172B;
+    border-radius: 10px;
+    width: 200px;
+}
+.selected-assets-text{
+    font-family: 'Tomorrow', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+    text-transform: capitalize;
+    color: rgba(255, 255, 255, 0.7);
+    opacity: 0.9;
+}
+.selected-assets-icon{
+    width: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.user-vs-opp-icon{
+    width: 150px;
+}
+.input-contiainer{
+    margin-top: 1.2rem;
+    margin-bottom: 1.2rem;
+}

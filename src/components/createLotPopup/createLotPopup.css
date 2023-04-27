@@ -1,0 +1,66 @@
+.popup-outer-container{
+    background: linear-gradient(180deg, rgba(98, 106, 136, 0.1) 0%, rgba(46, 49, 73, 0.1) 100%);
+    border: 1px solid rgba(255, 255, 255, 0.05);
+    border-radius: 17px;
+    position: absolute;
+    width: 598px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);   
+    position: relative; 
+}
+.selection-popup-container{
+    height: 700px;
+}
+.popup-inner-container{
+    padding: 24px;
+    height: -webkit-fill-available;
+}
+.pill-text-container{
+    padding: 8px 16px;
+    background: #14172B;
+    border-radius: 10px;
+}
+.pill-text{
+    margin: 0;
+    color: rgba(255, 255, 255, 0.9);
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+}
+.help-icon{
+    width: 24px;
+    cursor: pointer;
+}
+.players-icon{
+    width: 92px;
+}
+.arrows-icon{
+    width: 58px;
+}
+.title-text{
+    font-family: 'Tomorrow', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    letter-spacing: -0.025em;
+    color: rgba(255, 255, 255, 0.9);
+    margin-bottom: 1rem;    
+}
+.subtext{
+    font-family: 'Tomorrow', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(255, 255, 255, 0.7);
+    margin-top: 0;
+    margin-bottom: 48px;    
+}
+.btn-container{
+    padding: 24px;
+}

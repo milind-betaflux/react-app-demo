@@ -1,0 +1,28 @@
+.progress-bar-outer-container{    
+    background: rgba(255, 255, 255, 0.05);
+    height: 12px;
+    border-radius: 100px;
+}
+.step-indicator{
+    border-radius: 100px;    
+    width: 28px;
+    height: 27px;
+}
+.active-step-indicator{    
+    background: linear-gradient(175.25deg, #9E44FF 3.56%, #543EFF 103.97%);        
+}
+.inactive-step-indicator{
+    background: #14172B;    
+}
+.completed-step-indicator{
+    background: #6F9246;    
+}
+.progress-step-text{
+    font-family: 'Tomorrow', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #FFFFFF;
+}
